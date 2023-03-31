@@ -21,7 +21,6 @@ O aplicativo ByteCoin foi construído com as seguintes tecnologias:
 
 - Swift
 - Xcode
-- Alamofire
 - JSON
 - API - CoinAPI
 
